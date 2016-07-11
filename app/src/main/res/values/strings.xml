@@ -3,4 +3,6 @@
     <string name="hello_world">Hello, World!</string>
     <string name="hi_android">Hi! Android!</string>
     <string name="send_title">send</string>
+    <string name="toast_message">toast message</string>
 </resources>
+
