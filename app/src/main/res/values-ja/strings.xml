@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">私のアプリ</string>
     <string name="hello_world">こんにちは、世界!</string>
-    <string name="hi_android">こんにちは、アンドロイド!</string>
+    <string name="hi_android">こんにちは、アンドロイド! </string>
 </resources>
